@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/cirdec-lm/github-package#readme",
   "publishConfig": {
-      "cirdec-lm:registry": "https://npm.pkg.github.com"
+    "cirdec-lm:registry": "https://npm.pkg.github.com"
   }
 }
