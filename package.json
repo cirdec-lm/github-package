@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/cirdec-lm/github-package/issues"
   },
-  "homepage": "https://github.com/cirdec-lm/github-package#readme"
+  "homepage": "https://github.com/cirdec-lm/github-package#readme",
+  "publishConfig": {
+      "cirdec-lm:registry": "https://npm.pkg.github.com"
+  }
 }
