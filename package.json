@@ -1,0 +1,19 @@
+{
+  "name": "@cirdec-lm/github-package",
+  "version": "0.1.0",
+  "description": "testing github package registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cirdec-lm/github-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cirdec-lm/github-package/issues"
+  },
+  "homepage": "https://github.com/cirdec-lm/github-package#readme"
+}
